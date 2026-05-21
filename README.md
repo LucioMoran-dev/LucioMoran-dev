@@ -118,15 +118,6 @@ Actualmente cursando la **Tecnicatura en Programación en UTN Argentina** y egre
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucioMoran-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioMoran-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
-
----
-
 ## 📫 ¿Hablamos?
 
 Disponible para roles remotos en **Argentina o LATAM**. Disponibilidad inmediata.
